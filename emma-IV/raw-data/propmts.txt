@@ -1,0 +1,20 @@
+Erzeuge eine farbige Skizze im Seitenverhältnis 4:3 (mindestens 1200 Pixel Breite und mindestens 896 Pixel Höhe), die folgendes zeigt:
+Eine Sturmmöwe sitzt dicht gedrängt am rechten von zwei Grabsteinen, um sich vor dem Sturm zu schützen. Die Bäume sind vom Sturm geschüttelt und der Himmel zeigt vom Sturm zerrissene Wolken im Hintergrund.
+Nutze das Referenzbild (Stephan-Jontzen-Grab-Warnemünde.pngg) als Vorlage für die Grabstätte aber ändere die Perspektive auf einen Blick von etwas tiefer und rechts statt links,
+wobei die Grabstätte sehr genau der Vorgabe aus dem Referenzbild entsprechen soll.
+
+Erzeuge eine farbige Skizze im Seitenverhältnis 4:3 (mindestens 1200 Pixel Breite und mindestens 896 Pixel Höhe), die folgendes zeigt:
+Eine Promenade ganz genau wie im Referenzbild (Promenade-Warnemünde.jpg), aber Menschenleer bei stürmischem Wetter, herumfliegendem Laub und vom Sturm zerrissene Wolken im Hintergrund.
+
+Erzeuge eine farbige Skizze im Seitenverhältnis 4:3 (mindestens 1200 Pixel Breite und mindestens 896 Pixel Höhe), die folgendes zeigt:
+Einen Bild-Ausschnitt aus dem Referenz-Bild (das mittlere 1/4 des Bildes "Pier7-Warnemünde.jpg") unter besonderem Augenmerk auf die Gebäude,
+aber ohne Menschen, ohne Schiffe, ohne Autos, ohne Fahrräder und ohne Kinderwagen, und mit aufgewühlter Ostsee und einer Sturmmöwe, die darüber kreisen.
+
+Erzeuge eine farbige Skizze im Seitenverhältnis 4:3 (mindestens 1200 Pixel Breite und mindestens 896 Pixel Höhe), die folgendes zeigt:
+Die Werft in der Bildmitte aus dem Referenzbild (Werft-Warnemünde.jpg), aber stärker hineingezoomt (circa 1/6 des Referenzbildes als Ausschnitt),
+mit einem flacheren Kamerawinkel, bei stürmischem Wetter und einer Sturmmöwe, die über dem Gebäude links neben dem Kran kreist.
+
+Erzeuge eine farbige Skizze im Seitenverhältnis 4:3 (mindestens 1200 Pixel Breite und mindestens 896 Pixel Höhe), die folgendes zeigt:
+Den Bild-Ausschnitt aus dem Referenzbild (Mole-Warnemünde.webp) unter besonderem Augenmerk auf Mauerverlauf (durchgehend links vom Gehweg auf dem Molenkopf), Molenverlauf und Leuchtfeuer,
+aber ohne Menschen, ohne Schiffe, ohne Autos, ohne Fahrräder und ohne Kinderwagen, und mit aufgewühlter Ostsee, einem flachen Hügel aus Seetang, Seegras und Miesmuscheln auf dem Strand direkt vor der Wasserlinie
+und links neben der Mole, fünf in verschiedene Richtungen ausgerichtete und Muscheln aus dem Hügel pickende Sturmmöwen und sieben Sturmmöwen, die über dem Hügel kreisen.
