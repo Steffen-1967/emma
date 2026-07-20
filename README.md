@@ -3,7 +3,7 @@ Strories about Emma, the seagull.
 
 
 ## 01. [Die späte Mahlzeit](emma-I/)
-Emma und Gerda rauben ein Fischbrötchen von 'Backfisch Udo'.
+Emma und Gerda rauben ein Fischbrötchen von zwei Pärchen, die es gerade zuvor bei 'Backfisch Udo' gekauft haben.
 
 ## 02. Ein Morgen auf dem Kutter
 
