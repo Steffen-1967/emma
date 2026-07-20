@@ -2,7 +2,8 @@
 Strories about Emma, the seagull.
 
 
-## 01. Die späte Mahlzeit
+## 01. [Die späte Mahlzeit](emma-I/)
+Emma und Gerda rauben ein Schischbrötchen von 'Backfisch Udo'.
 
 ## 02. Ein Morgen auf dem Kutter
 
